@@ -40,6 +40,7 @@ const CreatePost = ({
       submitEdit && submitEdit();
     } else {
       dispatch(addPost(post as any));
+      setPost({ id: "", title: "", description: "" });
     }
   };
 
