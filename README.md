@@ -1,7 +1,7 @@
 # Project Description
 CRUD Posts Application usign React Hooks and Redux/Toolkit State Management
 
-#Tools
+# Tools
 
 React
 Tailwind CSS
