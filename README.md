@@ -1,6 +1,12 @@
 # Project Description
 CRUD Posts Application usign React Hooks and Redux/Toolkit State Management
 
+#Tools
+
+React
+Tailwind CSS
+Redux/Toolkit State Management
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
