@@ -3,8 +3,8 @@ CRUD Posts Application usign React Hooks and Redux/Toolkit State Management
 
 # Tools
 
-React
-Tailwind CSS
+React.\
+Tailwind CSS.\
 Redux/Toolkit State Management
 
 # Getting Started with Create React App
